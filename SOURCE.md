@@ -20,6 +20,6 @@ PHARRELLWILLIAMS.COM
 
 [columbia-logo.png]
 
-COLUMBIARECORDS.COM
+https://s3.amazonaws.com/learn-verified/columbia-logo.png
 
 [sony-logo.png]
